@@ -1,6 +1,6 @@
 # Desafio-2-explorer
 <h3>
-  Nesse 2 desafio no stage 2 do Explorer desenvolvemos um site mais complicado do que o feito anteriormente. Foi uma experiência incrível princialmente por ter adquirido novos conhecimentos na área, sendo os principais: 
+  Nesse 2 desafio no stage 2 do Explorer desenvolvemos um site mais complicado do que o feito anteriormente. Foi uma experiência incrível principalmente por ter adquirido novos conhecimentos na área, sendo os principais: 
 </h3>
 
 > Conceito de Box model no CSS
